@@ -1,5 +1,7 @@
 # Global-Temperature
 Global Temperature Data Analysis
+This analysis utilized the Global Temperature dataset named GSOT on BigQuery
+And below highlights are the result of the analysis on LookerStudio
 
 ![image](https://github.com/user-attachments/assets/817fa010-7ac9-4c21-9291-6cad94dfcb35)
 
